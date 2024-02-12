@@ -302,7 +302,7 @@ section.menu {
 }
 
 .menu-button button a {
-  color: red;
+  color: var(--White);
 }
 
 .menu_img_text {
