@@ -50,7 +50,8 @@ body {
   padding: 0;
   margin: 0;
 
-  background-color: Black;
+  color: var(--Light-grey);
+  background-color: var(--Black);
   font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
   font-size: 16px;
