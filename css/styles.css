@@ -582,6 +582,10 @@ a.contact:hover {
     color: var(--Black);
   }
 
+  .copy-right > p {
+    color: var(--Black),
+  }
+
   .item1 > button,
   .item2 > button {
     width: 100px;
