@@ -32,6 +32,7 @@ button:focus {
   outline: none;
   border: 1px solid var(--White);
   background-color: transparent;
+  color: var(--White);
   cursor: pointer;
   width: 156px;
   height: 45px;
@@ -133,15 +134,15 @@ nav {
 }
 
 .nav li a {
-  color: var(--Black);
+  color: var(--White);
   padding: 10px 10px 14px 10px;
   transition: color 0.5s;
 }
 
 .nav li a:hover,
 .nav li a.selected {
-  color: var(--Red);
-  border-bottom: 2px solid var(--Red);
+  color: var(--White);
+  border-bottom: 2px solid var(--White);
 }
 
 /* Main */
@@ -165,13 +166,13 @@ nav {
 }
 
 .intro-item button a {
-  color: var(--Red);
+  color: var(--White);
 }
 
 .intro .mid-line {
   width: 35%;
   height: 2px;
-  background-color: var(--Red);
+  background-color: var(--White);
   margin: 0 auto;
 }
 
@@ -254,7 +255,7 @@ input,
 textarea {
   width: 100%;
   display: block;
-  border: 1px solid var(--Red);
+  border: 1px solid var(--Black);
   padding: 10px;
   margin-bottom: 20px;
 }
