@@ -366,6 +366,7 @@ footer {
   font-size: 12px;
   line-height: 177%;
   color: var(--Medium-grey);
+  margin-top: auto;
 }
 
 .footer-info {
@@ -577,6 +578,8 @@ a.contact:hover {
   .gallery {
     padding: 50px 0;
   }
+
+  
 
   .copy-right > p,
   .copy-right > img {
