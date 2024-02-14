@@ -415,7 +415,7 @@ a.contact:hover {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  color: white;
+  color: var(--Black);
 }
 
 .copy-right img {
@@ -579,11 +579,6 @@ a.contact:hover {
   .copy-right > p,
   .copy-right > img {
     display: none;
-    color: var(--Black);
-  }
-
-  .copy-right > p {
-    color: var(--Black),
   }
 
   .item1 > button,
