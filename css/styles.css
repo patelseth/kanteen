@@ -41,7 +41,7 @@ button {
   font-size: 12px;
 }
 
-button:focus {
+button:hover {
   color: var(--White);
   border-bottom: 2px solid var(--White);
 }
