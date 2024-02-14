@@ -421,6 +421,7 @@ a.contact:hover {
 .copy-right img {
   width: 120px;
   margin-left: 10px;
+  color: var(--Black);
 }
 
 .toggle {
@@ -579,6 +580,7 @@ a.contact:hover {
   .copy-right > p,
   .copy-right > img {
     display: none;
+    color: var(--Black);
   }
 
   .item1 > button,
