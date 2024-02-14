@@ -34,7 +34,7 @@ button:focus {
   background-color: transparent;
   color: var(--White);
   cursor: pointer;
-  width: 156px;
+  width: 170px;
   height: 45px;
 
   font-family: 'Noto Sans', sans-serif;
