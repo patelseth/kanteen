@@ -156,6 +156,7 @@ nav {
 }
 
 .slide img {
+  border: 2px solid var(--White);
   width: 100%;
   max-width: 1000px;
 }
