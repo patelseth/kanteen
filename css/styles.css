@@ -390,7 +390,6 @@ a.contact:hover {
 }
 
 .social-media {
-  color: var(--Black);
   text-align: right;
   font-size: 22px;
   display: flex;
@@ -400,14 +399,13 @@ a.contact:hover {
 }
 
 .social-media a {
-  color: var(--Black);
   padding: 5px 10px;
 }
 
 .social-media > .mid-line {
   width: 1px;
   height: 22px;
-  background-color: var(--Black);
+  background-color: var(--Dark-grey);
   margin: 0 10px;
 }
 
@@ -415,13 +413,13 @@ a.contact:hover {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  color: var(--Black);
+  color: var(--Dark-grey);
 }
 
 .copy-right img {
   width: 120px;
   margin-left: 10px;
-  color: var(--Black);
+  color: var(--Dark-grey);
 }
 
 .toggle {
@@ -580,11 +578,6 @@ a.contact:hover {
   .copy-right > p,
   .copy-right > img {
     display: none;
-    color: var(--Black);
-  }
-
-  .copy-right > p {
-    color: var(--Black);
   }
 
   .item1 > button,
