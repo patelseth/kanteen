@@ -117,13 +117,6 @@ header img.logo {
   border: 1px solid var(--Black);
 }
 
-.insta {
-  width: 90vw;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 nav {
   width: 90vw;
   border-top: 1px solid var(--Light-grey);
@@ -586,7 +579,13 @@ a.contact:hover {
     padding: 50px 0;
   }
 
-  
+
+  .insta {
+    width: 90vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
   .copy-right > p,
   .copy-right > img {
