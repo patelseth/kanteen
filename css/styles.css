@@ -402,13 +402,6 @@ a.contact:hover {
   padding: 5px 10px;
 }
 
-.social-media > .mid-line {
-  width: 1px;
-  height: 22px;
-  background-color: var(--Dark-grey);
-  margin: 0 10px;
-}
-
 .copy-right {
   display: flex;
   justify-content: flex-end;
