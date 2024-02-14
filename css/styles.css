@@ -390,7 +390,7 @@ a.contact:hover {
 }
 
 .social-media {
-  color: var(--White);
+  color: var(--Black);
   text-align: right;
   font-size: 22px;
   display: flex;
@@ -400,14 +400,14 @@ a.contact:hover {
 }
 
 .social-media a {
-  color: var(--White);
+  color: var(--Black);
   padding: 5px 10px;
 }
 
 .social-media > .mid-line {
   width: 1px;
   height: 22px;
-  background-color: var(--White);
+  background-color: var(--Black);
   margin: 0 10px;
 }
 
