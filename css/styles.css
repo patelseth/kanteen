@@ -275,8 +275,8 @@ textarea {
 }
 
 form > button {
-  background-color: var(--Light-grey);
-  color: var(--Medium-grey);
+  background-color: transparent;
+  color: var(--White);
 }
 
 /* Menu */
