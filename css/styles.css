@@ -193,6 +193,7 @@ nav {
   display: flex;
   justify-content: space-around;
   flex-flow: row wrap;
+  color: var(--White);
 }
 
 .juicer-feed h1.referral {
@@ -227,12 +228,14 @@ button.j-close {
 
 .juicer-feed.modern li.feed-item {
   padding: 0;
-  background-color: black;
+  background-color: var(--Black);
+  color: var(--White);
 }
 
 .juicer-feed.modern li.feed-item.juicer, .juicer-feed.polaroid li.feed-item.juicer {
   background: #000;
   color: #3a3a3a;
+  color: var(--White);
 }
 
 .juicer-feed.modern {
@@ -253,6 +256,7 @@ img.j-content-image {
 
 .juicer-feed.modern li.feed-item.juicer {
   background: var(--Black);
+  color: var(--White);
 }
 
 li.feed-item {
