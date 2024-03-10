@@ -114,7 +114,9 @@ header {
 header img.logo {
   width: 295px;
   margin-bottom: 5px;
-  border: 1px solid var(--Black);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 nav {
