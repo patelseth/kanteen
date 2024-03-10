@@ -544,9 +544,11 @@ a.contact:hover {
   }
 
   header img.logo {
-    width: 40%;
-    min-width: 180px;
-    margin-bottom: 0;
+    width: 50%;
+    margin-bottom: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .nav {
