@@ -558,7 +558,6 @@ a.contact:hover {
   }
 
   .nav {
-    display: none;
     flex-direction: column;
     font-size: 12px;
     font-weight: 600;
