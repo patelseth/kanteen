@@ -197,7 +197,7 @@ nav {
 
 .j-poster {
   background-color: var(--Black);
-  border: 1px solid var(--Black);
+  border-color: var(--Black);
   color: var(--White);
 }
 
@@ -219,12 +219,13 @@ button.j-close {
 
 .juicer-feed.modern {
   background-color: var(--Black);
+  border-color: var(--Black);
   color: var(--White);
 }
 
 .j-text {
   background-color: var(--Black);
-  border: 1px solid var(--Black);
+  border-color: var(--Black);
   color: var(--White);
 }
 
