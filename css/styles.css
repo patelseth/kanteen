@@ -195,6 +195,10 @@ nav {
   flex-flow: row wrap;
 }
 
+.juicer-feed h1.referral {
+  visibility: hidden;
+}
+
 .j-poster {
   background-color: var(--Black);
   border-color: var(--Black);
@@ -229,8 +233,14 @@ button.j-close {
   color: var(--White);
 }
 
+img.j-content-image {
+  background-color: var(--Black);
+}
+
 li.feed-item {
   border-width: 0.5px 0.5px 0.5px 0.5px;
+  border-color: var(--Black);
+  background-color: var(--Black);
   color: var(--White);
 }
 
