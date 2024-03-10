@@ -17,10 +17,6 @@
   --Button_footer: 12px;
 }
 
-img {
-  border: 1px solid var(--White);
-}
-
 /* Remove pre-setting */
 * {
   box-sizing: border-box;
