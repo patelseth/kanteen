@@ -201,6 +201,14 @@ nav {
   color: var(--White);
 }
 
+.j-poster.h3 {
+  color: var(--White);
+}
+
+.j-text.h3 {
+  color: var(--White);
+}
+
 div.j-text {
   background-color: var(--Black);
   border: 1px solid var(--Black);
