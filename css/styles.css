@@ -205,13 +205,22 @@ nav {
   color: var(--White);
 }
 
-.j-text.h3 {
+.j-text.p {
   color: var(--White);
 }
 
-div.j-text {
+.juicer-feed {x
+  color: var(--White);
+}
+
+.j-text {
   background-color: var(--Black);
   border: 1px solid var(--Black);
+  color: var(--White);
+}
+
+li.feed-item {
+  border-width: 0.5px 0.5px 0.5px 0.5px;
   color: var(--White);
 }
 
