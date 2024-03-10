@@ -217,6 +217,10 @@ button.j-close {
   background-color: #fff0;
 }
 
+.j-date {
+  color: var(--White);
+}
+
 .juicer-feed {
   color: var(--White);
 }
@@ -235,6 +239,10 @@ button.j-close {
 
 img.j-content-image {
   background-color: var(--Black);
+}
+
+.juicer-feed.modern li.feed-item.juicer {
+  background: var(--Black);
 }
 
 li.feed-item {
