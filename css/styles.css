@@ -255,7 +255,7 @@ img.j-content-image {
   background-color: var(--Black);
 }
 
-.juicer-feed.modern li.feed-item.juicer {
+.juicer-feed.modern li.feed-item {
   background: var(--Black);
   color: var(--White);
 }
