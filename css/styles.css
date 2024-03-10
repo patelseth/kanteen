@@ -209,7 +209,12 @@ nav {
   color: var(--White);
 }
 
-.juicer-feed {x
+.juicer-feed {
+  color: var(--White);
+}
+
+.juicer-feed.modern {
+  background-color: var(--Black);
   color: var(--White);
 }
 
