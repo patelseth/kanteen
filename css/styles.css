@@ -109,6 +109,13 @@ h4 {
     color: white;
 }
 
+.j-poster .j-date {
+  float: right;
+  font-size: 14px;
+  margin-top: 4px;
+  color: #fffdfd;
+}
+
 .juicer-feed.modern .j-message {
   color: #fffdfd;
   line-height: 25px;
