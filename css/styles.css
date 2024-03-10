@@ -209,6 +209,10 @@ nav {
   color: var(--White);
 }
 
+button.j-close {
+  background-color: #fff0;
+}
+
 .juicer-feed {
   color: var(--White);
 }
