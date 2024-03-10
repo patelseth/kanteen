@@ -198,6 +198,12 @@ nav {
   flex-flow: row wrap;
 }
 
+.j-poster {
+  background-color: var(--Black);
+  border: 1px solid var(--Black);
+  color: var(--White);
+}
+
 article {
   width: 45%;
   height: 50vh;
