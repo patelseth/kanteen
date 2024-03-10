@@ -109,6 +109,31 @@ h4 {
     color: white;
 }
 
+.juicer-feed.modern .j-poster h3 {
+  color: var(--White);
+}
+
+.juicer-feed.modern .j-message {
+  color: var(--White);
+  line-height: 25px;
+}
+
+li.feed-item.juicer .j-poster h3 {
+  color: var(--White);
+}
+
+.juicer-feed.modern li.feed-item.juicer .j-message {
+  color: var(--White);
+}
+
+.juicer-feed.modern li.feed-item.juicer  {
+  color: var(--White);
+}
+
+.juicer-feed .j-meta a {
+  color: var(--White);
+}
+
 /* Header */
 header {
   text-align: center;
