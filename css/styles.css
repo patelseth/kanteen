@@ -196,7 +196,7 @@ nav {
   color: var(--White);
 }
 
-.juicer-feed.white li.feed-item, .juicer-feed.user li.feed-item, .juicer-feed.juicer-widget li.feed-item, .juicer-feed.colors li.feed-item, .juicer-feed.gray li.feed-item, .juicer-feed.modern li.feed-item, .juicer-feed.polaroid li.feed-item {
+.juicer-feed.modern li.feed-item {
   padding: 10px;
   background: #fff;
   color: #3a3a3a;
