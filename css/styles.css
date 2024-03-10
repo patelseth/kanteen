@@ -230,6 +230,11 @@ button.j-close {
   background-color: black;
 }
 
+.juicer-feed.modern li.feed-item.juicer, .juicer-feed.polaroid li.feed-item.juicer {
+  background: #000;
+  color: #3a3a3a;
+}
+
 .juicer-feed.modern {
   background-color: var(--Black);
   border-color: var(--Black);
