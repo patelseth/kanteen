@@ -225,6 +225,11 @@ button.j-close {
   color: var(--White);
 }
 
+.juicer-feed.modern li.feed-item {
+  padding: 0;
+  background-color: black;
+}
+
 .juicer-feed.modern {
   background-color: var(--Black);
   border-color: var(--Black);
