@@ -29,7 +29,6 @@ a:visited {
 
 button {
   outline: none;
-/*   border: 1px solid var(--White); */
   background-color: transparent;
   color: var(--White);
   cursor: pointer;
