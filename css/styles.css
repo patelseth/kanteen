@@ -46,6 +46,11 @@ button:hover {
   border: 2px solid var(--White);
 }
 
+nav:hover {
+  color: var(--White);
+  border-bottom: 2px solid var(--White);
+}
+
 ul {
   padding: 0;
   list-style: none;
