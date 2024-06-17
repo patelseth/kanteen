@@ -43,7 +43,7 @@ button {
 
 button:hover {
   border-radius: 8px;
-  border: 1px solid var(--Black);
+  border: 1px solid var(--White);
 }
 
 ul {
