@@ -155,7 +155,11 @@ nav {
   transition: color 0.5s;
 }
 
-.nav li a.hover,
+.nav li a:hover {
+  color: var(--White);
+  border-bottom: 2px solid var(--White);
+}
+
 .nav li a.selected {
   color: var(--White);
   border-bottom: 2px solid var(--White);
