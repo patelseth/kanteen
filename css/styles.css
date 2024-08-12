@@ -190,6 +190,13 @@ nav {
   max-width: 1000px;
 }
 
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    .two-columns {
+      grid-template-columns: 1fr; /* Switch to one column */
+    }
+  }
+  
 .two-columns {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
