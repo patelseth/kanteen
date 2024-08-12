@@ -174,15 +174,17 @@ nav {
   text-align: center;
 }
 
-.specialsslide img {
+.specialsslide, .slide {
   text-align: center;
+}
+
+.specialsslide img {
   border: 1px solid var(--White);
   width: 100%;
   max-width: 400px;
 }
 
 .slide img {
-  text-align: center;
   border: 1px solid var(--White);
   width: 100%;
   max-width: 1000px;
