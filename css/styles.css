@@ -175,16 +175,6 @@ nav {
   text-align: center;
 }
 
-.specialsslide img {
-  border: 1px solid var(--White);
-  width: 48%; /* Adjust the width to half size, with a small margin for spacing */
-  margin: 1%; /* Space between columns */
-  display: inline-block; /* Allow sections to sit side by side */
-  vertical-align: top; /* Align sections at the top */
-  width: 100%; /* Make the images fit their container */
-  height: auto; /* Maintain the aspect ratio */
-}
-
 .slide img {
   border: 1px solid var(--White);
   width: 100%;
