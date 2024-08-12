@@ -190,6 +190,16 @@ nav {
   max-width: 1000px;
 }
 
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px; /* Adjust the gap between columns as needed */
+}
+
+.specialsslide {
+  margin-bottom: 20px; /* Space between items in each column */
+}
+
 .intro {
   width: 50%;
   margin: 0 auto;
