@@ -170,12 +170,19 @@ nav {
 }
 
 /* Main */
-.slide,
 .intro {
   text-align: center;
 }
 
+.specialsslide img {
+  text-align: center;
+  border: 1px solid var(--White);
+  width: 50%;
+  max-width: 1000px;
+}
+
 .slide img {
+  text-align: center;
   border: 1px solid var(--White);
   width: 100%;
   max-width: 1000px;
