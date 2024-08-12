@@ -190,13 +190,6 @@ nav {
   max-width: 1000px;
 }
 
-  /* Media query for smaller screens */
-  @media (max-width: 768px) {
-    .two-columns {
-      grid-template-columns: 1fr; /* Switch to one column */
-    }
-  }
-  
 .two-columns {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -539,6 +532,11 @@ a.contact:hover {
 }
 
 @media screen and (max-width: 545px) {
+
+  .two-columns {
+    grid-template-columns: 1fr; /* Switch to one column */
+  }
+  
   .toggle {
     display: block;
     position: absolute;
